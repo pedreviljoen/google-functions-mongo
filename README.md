@@ -16,7 +16,7 @@ In this case I used [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). Their 
 
 You will need to create an account and follow these [steps](https://docs.mongodb.com/manual/tutorial/atlas-free-tier-setup/) to setup a cluster and get going easy & pain-free.
 
-There after you need to be able to connect to your instance. One way of doing so, is through a connection string. The last step of the above mentioned guide, shows a simple implementation thereof.
+Thereafter you need to be able to connect to your instance. One way of doing so, is through a connection string. The last step of the above mentioned guide, shows a simple implementation thereof.
 
 ## Google functions
 
