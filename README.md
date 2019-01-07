@@ -1,5 +1,7 @@
 # init
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pedreviljoen/google-functions-mongo.svg)](https://greenkeeper.io/)
+
 <div align="center">
   <img src="assets/init_logo.jpg" width="70%">
 </div>
